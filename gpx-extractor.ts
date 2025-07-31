@@ -8,6 +8,9 @@ const generateMD5Hash = (str: string) => {
 };
 
 const cachedFetch = async (url: string) => {
+  if (!fs.existsSync("./cache")) {
+    fs.mkdirSync("./cache");
+  }
   const hash = generateMD5Hash(url);
   if (!fs.existsSync(`./cache/${hash}.html`)) {
     const response = await fetch(url);
