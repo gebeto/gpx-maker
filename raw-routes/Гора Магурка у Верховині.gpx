@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="phpGPX/1.0RC5" schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Гора Магурка у Верховині</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>Гора Магурка у Верховині</name>
+    <trkseg>
+        <trkpt lat="48.149725" lon="24.788564">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14873" lon="24.788381">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14737" lon="24.788253">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.146754" lon="24.787915">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14621" lon="24.787427">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.145463" lon="24.784781">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.145234" lon="24.784791">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14381" lon="24.786412">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.143022" lon="24.787323">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.142743" lon="24.78742">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14202" lon="24.788353">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.141927" lon="24.788847">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14169" lon="24.789394">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.140796" lon="24.790907">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14106" lon="24.791124">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14144" lon="24.79121">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.141834" lon="24.79121">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.14192" lon="24.791403">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.141218" lon="24.793162">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.140824" lon="24.794396">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.140323" lon="24.79637">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.139507" lon="24.799245">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.138934" lon="24.800919">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.138275" lon="24.803237">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.137158" lon="24.806327">
+          <ele>0</ele>
+        </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

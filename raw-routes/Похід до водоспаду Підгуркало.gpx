@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="phpGPX/1.0RC5" schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Похід до водоспаду Підгуркало</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>Похід до водоспаду Підгуркало</name>
+    <trkseg>
+        <trkpt lat="48.825571" lon="24.145464">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.825299" lon="24.145587">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.824988" lon="24.145625">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.824624" lon="24.145684">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.824271" lon="24.145791">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.824027" lon="24.145899">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.823844" lon="24.145555">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.823589" lon="24.145475">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.823307" lon="24.145282">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.823" lon="24.145078">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.822634" lon="24.145207">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.822485" lon="24.14482">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.822122" lon="24.144429">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821952" lon="24.144091">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821883" lon="24.14339">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82189" lon="24.142796">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82179" lon="24.141682">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82169" lon="24.141287">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821587" lon="24.140963">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821487" lon="24.140171">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821587" lon="24.139332">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821487" lon="24.139526">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821384" lon="24.139229">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82128" lon="24.138973">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82118" lon="24.138515">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821075" lon="24.136477">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82118" lon="24.135986">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.821075" lon="24.135277">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.820972" lon="24.134596">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.820866" lon="24.134495">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82076" lon="24.133432">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.820656" lon="24.13327">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82055" lon="24.132936">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82044" lon="24.132786">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.820335" lon="24.131931">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82023" lon="24.13169">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.82013" lon="24.130344">
+          <ele>0</ele>
+        </trkpt>
+        <trkpt lat="48.820312" lon="24.130236">
+          <ele>0</ele>
+        </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
