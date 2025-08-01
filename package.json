@@ -4,6 +4,8 @@
   "main": "index.ts",
   "license": "MIT",
   "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.16.1",
+    "@types/mapbox__mapbox-sdk": "^0.16.3",
     "@types/node": "^24.1.0",
     "handlebars": "^4.7.8",
     "node-html-parser": "^7.0.1",
